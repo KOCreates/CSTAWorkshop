@@ -1,7 +1,7 @@
-# Lesson Plan Template
+# Lesson Plan Template CSTA Workshop
 This file serves as the primary lesson plan document for the repository.
 
-## Template Description
+## Template Description - CSTA Workshop Description
 [Click here for more information about what this template repository contains.](TemplateDescription.md)
 
 ## Additional Page Example
